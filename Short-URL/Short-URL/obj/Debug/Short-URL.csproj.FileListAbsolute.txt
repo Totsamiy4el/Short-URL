@@ -1,0 +1,10 @@
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\obj\Debug\Short-URL.csprojAssemblyReference.cache
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\obj\Debug\Short-URL.csproj.CoreCompileInputs.cache
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\bin\Debug\Short-URL.exe.config
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\bin\Debug\Short-URL.exe
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\bin\Debug\Short-URL.pdb
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\obj\Debug\Short-URL.csproj.CopyComplete
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\obj\Debug\Short-URL.exe
+C:\Users\Сашок\source\repos\Short-URL\Short-URL\obj\Debug\Short-URL.pdb
